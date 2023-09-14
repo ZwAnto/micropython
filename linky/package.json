@@ -3,5 +3,9 @@
       ["linky/__init__.py", "github:ZwAnto/micropython/linky/__init__.py"],
       ["linky/trame.py", "github:ZwAnto/micropython/linky/trame.py"]
     ],
+    "deps": [
+      ["github:ZwAnto/micropython/tools.py"],
+      ["github:nohcpy/MicroPython_RFM69/micropython_rfm69.py"]
+    ],
     "version": "0.1"
   }
